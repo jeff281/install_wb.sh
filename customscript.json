@@ -1,0 +1,4 @@
+{
+    "fileUris": ["https://raw.githubusercontent.com/jeff281/install_wb.sh/master/install_web.sh"],
+    "commandToExecute": "./install_wb.sh"
+}
